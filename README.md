@@ -1,13 +1,13 @@
-# callbackhunter-com-wp
-CallBackHunter for WordPress
+# Обратный звонок Pozvonim.com для WordPress
+Pozvonim.com for WordPress
 
-Страница плагина и демо http://im4b.ru/product/plagin-ustanovki-callbackhunter-na-sajt-wordpress/
+Внимание! Вы можете получить скидку при регистрации по ссылке ![Pozvonim.com с бонусом от Системо](http://pozvonim.com/?i=6872321679)
 
 # Порядок установки
 
 1. Скачиваем и активируем плагин в WordPress
-2. Заходим в раздел Обсуждения и находим секцию опции для CallBackHunter
-3. Получаем данные в кабинете CallBackHuner
+2. Заходим в раздел Обсуждения и находим секцию опции для Pozvonim
+3. Получаем данные в кабинете Pozvonim
 4. Вставляем в поле и сохраняем
 
 Готово! Вы установили скрипт на сайт WordPress!
