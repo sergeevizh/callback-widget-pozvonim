@@ -13,5 +13,5 @@ Pozvonim.com for WordPress
 Готово! Вы установили скрипт на сайт WordPress!
 
 # Скриншоты
-![Опции настройки](https://raw.githubusercontent.com/systemo-biz/systemo-biz/callback-widget-pozvonim/blob/master/inc/screenshot-1.jpg)
+![Опции настройки](https://raw.githubusercontent.com/systemo-biz/callback-widget-pozvonim/blob/master/inc/screenshot-1.jpg)
 
