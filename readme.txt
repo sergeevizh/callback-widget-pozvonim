@@ -3,6 +3,7 @@ Contributors: casepress
 Tags: widget, callback, chat, livechat, pozvonim
 Requires at least: 3.8
 Tested up to: 4.4
+Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,4 +42,4 @@ https://youtu.be/kQCt2eJuy-Q
 1. Распакуйте архив с плагином
 2. Загрузите папку с плагином в директорию /wp-content/plugins/ на вашем сервере
 3. Активируйте плагин Позвоним в разделе Плагины в панели администрирования WordPress
-4. Далее в разделе \\\'Обсуждение\\\' вставьте код от Pozvonim в соответствующей секции
+4. Далее в разделе \'Обсуждение\' вставьте код от Pozvonim в соответствующей секции
