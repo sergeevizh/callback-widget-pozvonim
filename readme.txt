@@ -11,6 +11,9 @@ Callback widget for WordPress by Pozvonim.com
 == Description ==
 Get more clients with awesome callback widget Pozvonim.com for WordPress
 
+= Video =
+https://youtu.be/kQCt2eJuy-Q
+
 == Installation ==
 1. Visit \'Plugins > Add New\'
 2. Search for \'Pozvonim\'
