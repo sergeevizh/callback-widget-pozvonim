@@ -1,24 +1,46 @@
-=== Callback widget sPozvonim ===
-Tags: callback, pozvonim-com, pozvonim.com
+=== Callback widget Pozvonim.com ===
+Tags: callback, pozvonim-com, pozvonim.com, chat, 
 Requires at least: 3.8
 Tested up to: 4.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Callback widget for WordPress by Pozvonim.com
+Виджет обратного звонка для сайта Pozvonim.com - позволяет существенно повысить конверсию и продажи
 
 == Description ==
+
+= en =
 Get more clients with awesome callback widget Pozvonim.com for WordPress
+
+= ru =
+Pozvonim.com - позволяет существенно повысить конверсию сайта и продажи.
+
+Данный плагин позволит вам легко вставить код счётчика Яндекс Метрика на ваш сайт.
+При этом вам не нужно редактировать файлы вашей темы, и счётчик продолжит работать даже при смене вашей активной темы.
+
+После активации плагина зайдите в раздел Обсуждение, далее найти секцию настройки Pozvonim.com для того чтобы вставить код вашего виджета.
+Учтите, что для редактирования кода виджета, вам необходимы права администратора на сайте WordPress (или супер-администратора в режиме Multisite).
+
+Попробовать виджет вы можете бесплатно + получить бонус 1000 рублей на счет при регистрации по ссылке http://pozvonim.com/?i=13633093
 
 = Video =
 https://youtu.be/kQCt2eJuy-Q
 
 == Installation ==
-1. Visit \'Plugins > Add New\'
-2. Search for \'Pozvonim\'
-3. Activate Pozvonim from your Plugins page. 
 
+= Через консоль =
+
+1. Зайдите \'Палгины > Добавить новый\'
+2. Найдите \'Pozvonim\'
+3. Активируйте плагин.
+4. Далее в разделе \'Обсуждение\' вставьте код от Pozvonim в соответствующей секции
+
+= Через FTP =
+1. Распакуйте архив с плагином
+2. Загрузите папку с плагином в директорию `/wp-content/plugins/` на вашем сервере
+3. Активируйте плагин Позвоним в разделе Плагины в панели администрирования WordPress
+4. Далее в разделе \'Обсуждение\' вставьте код от Pozvonim в соответствующей секции
 
 == Screenshots ==
 1. 1. Settings page
