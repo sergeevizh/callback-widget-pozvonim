@@ -27,7 +27,7 @@ Pozvonim.com - позволяет существенно повысить кон
 
 Видео:
 
-https://youtu.be/kQCt2eJuy-Q
+https://www.youtube.com/watch?v=kQCt2eJuy-Q
 
 
 == Installation ==
