@@ -1,19 +1,14 @@
-=== Pozvonim.com - обратный звонок для WordPress ===
-Tags: callback, pozvonim-com, pozvonim, chat
+=== Callback widget Pozvonim ===
+Contributors: casepress
+Tags: widget, callback, chat, livechat, pozvonim
 Requires at least: 3.8
 Tested up to: 4.4
-Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Виджет обратного звонка для сайта Pozvonim - позволяет существенно повысить конверсию и продажи.
+Виджет обратного звонка для сайта Pozvonim - позволяет существенно повысить конверсию и продажи
 
 == Description ==
-
-en:
-Get more clients with awesome callback widget Pozvonim.com for WordPress
-
-ru:
 Pozvonim.com - позволяет существенно повысить конверсию сайта и продажи.
 
 Данный плагин позволит вам легко вставить код виджета Pozvonim на ваш сайт.
@@ -26,7 +21,7 @@ Pozvonim.com - позволяет существенно повысить кон
 Попробовать бесплатно:
 
 Попробовать виджет вы можете бесплатно + получить бонус 1000 рублей на счет при регистрации по ссылке 
-<a href="http://pozvonim.com/?i=13633093" target="_blank">регистрация с бонусом +1000 рублей</a>
+регистрация с бонусом +1000 рублей
 
 
 Видео:
@@ -35,24 +30,15 @@ https://youtu.be/kQCt2eJuy-Q
 
 
 == Installation ==
-
 Через консоль:
 
-1. Зайдите \'Палгины > Добавить новый\'
-2. Найдите \'Pozvonim\'
+1. Зайдите \"Палгины\" > Добавить новый
+2. Найдите Pozvonim
 3. Активируйте плагин.
-4. Далее в разделе \'Обсуждение\' вставьте код от Pozvonim в соответствующей секции
+4. Далее в разделе Обсуждение вставьте код от Pozvonim в соответствующей секции
 
 Через FTP:
 1. Распакуйте архив с плагином
-2. Загрузите папку с плагином в директорию `/wp-content/plugins/` на вашем сервере
+2. Загрузите папку с плагином в директорию /wp-content/plugins/ на вашем сервере
 3. Активируйте плагин Позвоним в разделе Плагины в панели администрирования WordPress
-4. Далее в разделе \'Обсуждение\' вставьте код от Pozvonim в соответствующей секции
-
-== Screenshots ==
-1. 1. Settings page
-2. 2. Example 1
-3. 2. Example 2
-
-== Changelog ==
-1.0 Init
+4. Далее в разделе \\\'Обсуждение\\\' вставьте код от Pozvonim в соответствующей секции
