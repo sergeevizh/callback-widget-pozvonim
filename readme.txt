@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Виджет обратного звонка для сайта Pozvonim - позволяет существенно повысить конверсию и продажи
+Виджет обратного звонка Pozvonim - позволяет повысить конверсию сайта
 
 == Description ==
 Pozvonim.com - позволяет существенно повысить конверсию сайта и продажи.
