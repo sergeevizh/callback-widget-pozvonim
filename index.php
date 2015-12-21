@@ -5,7 +5,7 @@ Plugin URI: https://github.com/systemo-biz/callback-widget-pozvonim
 Description: Правильная интеграция виджета обратного звонка Pozvonim.com для сайта на WordPress
 Author: Systemo
 Author URI: http://systemo.biz/
-Version: 20150911
+Version: 20151220
 */
 
 
