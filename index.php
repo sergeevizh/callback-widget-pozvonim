@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Pozvonim.com - обратный звонок для WordPress
+Plugin Name: Callback widget Pozvonim
 Plugin URI: https://github.com/systemo-biz/callback-widget-pozvonim
 Description: Правильная интеграция виджета обратного звонка Pozvonim.com для сайта на WordPress
 Author: Systemo
