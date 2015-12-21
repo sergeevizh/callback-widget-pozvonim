@@ -1,4 +1,4 @@
-=== Callback widget Pozvonim ===
+=== Pozvonim.com - обратный звонок для WordPress ===
 Tags: callback, pozvonim-com, pozvonim, chat
 Requires at least: 3.8
 Tested up to: 4.4
