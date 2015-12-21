@@ -1,4 +1,4 @@
-=== Callback widget Pozvonim.com ===
+=== Callback widget Pozvonim ===
 Tags: callback, pozvonim-com, pozvonim, chat
 Requires at least: 3.8
 Tested up to: 4.4
@@ -6,7 +6,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Виджет обратного звонка для сайта Pozvonim.com - позволяет существенно повысить конверсию и продажи
+Виджет обратного звонка для сайта Pozvonim - позволяет существенно повысить конверсию и продажи.
 
 == Description ==
 
